@@ -1,1 +1,1 @@
-# git_test
+This is Julia Akpabio's first git project!
